@@ -49,6 +49,7 @@ with only a subset of sections having recommendations):
   * [Internationalization](./internationalization.md)
   * Accessibility
   * API Definition
+  * [GraphQL](./graphql.md)
   * Databases
   * [Authentication and Authorization](./auth.md)
   * Caching
