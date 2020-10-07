@@ -58,7 +58,7 @@ with only a subset of sections having recommendations):
   * Transactions_handling
 
 * Development
-  * Static Assets
+  * [Static Assets](./static-assets.md)
   * Keeping up to date
   * Code Quality
     * [Code Consistency](./code-consistency.md)
