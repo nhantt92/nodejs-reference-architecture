@@ -3,7 +3,7 @@
 Our teams have extensive knowledge in developing GraphQL solutions and recomending number of packages depending on your
 use cases and languages.
 
-## Building GraphQL API in from scratch
+## Building GraphQL API from scratch
 
 When building GraphQL API from scratch we recomend using reference GraphQL-js reference implementation which was 
 proven to be the most performant and have continous support from community. Entire development is currently backed by Linux foundation.
