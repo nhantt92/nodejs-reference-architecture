@@ -21,7 +21,7 @@ https://github.com/ardatan/graphql-tools
 Developers can use top level database query languages. 
 We recomend using Knex(http://knexjs.org/) for performing queries from GraphQL to relational databases.
 
-If your GraphQL model have relationships please consider using DataLoader to prevent from overfetching problem:
+If your GraphQL model contains relationships please consider using DataLoader to prevent from overfetching problem:
 
 DataLoader: https://github.com/graphql/dataloader
 
